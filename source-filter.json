@@ -1,0 +1,6 @@
+{
+    "DestinationPortRange": {
+        "FromPort": 22,
+        "ToPort": 22
+    }
+}
